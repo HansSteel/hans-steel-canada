@@ -71,7 +71,7 @@ export default function Brochure() {
   return (
     <div className="">
       <Head>
-        <title>Brochure | Hans Steel</title>
+        <title>Brochure | Hans Steel Canada</title>
         <meta
           name="description"
           content="View our brochure for Hans Steel products and services"

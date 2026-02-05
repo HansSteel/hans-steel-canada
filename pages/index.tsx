@@ -94,7 +94,7 @@ const Home: NextPage = () => {
   return (
     <>
       <MetaHead
-        title="Hans Steel | Structural Steel Fabrication & Engineering"
+        title="Hans Steel Canada | Structural Steel Fabrication & Engineering"
         description="Hans Steel specializes in structural steel fabrication, engineering, and construction for industrial, commercial, and institutional projects across Canada."
         keywords="structural steel, steel fabrication, steel construction, industrial steel, commercial steel, institutional steel, Canada"
       />
