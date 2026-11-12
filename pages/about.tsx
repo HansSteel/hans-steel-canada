@@ -112,7 +112,7 @@ const About: NextPage = () => {
             <div className="mt-3 h-0.5 w-20 bg-gray-200 rounded" />
 
             <p className="mt-5 text-base text-gray-700">
-              Hans Steel Canada is the North American division of Qingdao Wuxiao Group. Our new, advanced
+              Hans Steel Canada has advanced
               fabrication facility in Stouffville, Ontario provides dependable, cost-effective structural
               steel solutions — with a particular focus on Power Transmission and Distribution sectors.
             </p>
